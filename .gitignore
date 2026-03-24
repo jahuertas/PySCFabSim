@@ -1,2 +1,19 @@
-.idea/
+# Ignore the virtual environment
+.env
+.venv
+env/
 venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore all __pycache__ directories
+**/__pycache__/
+**/.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# Ignore greedy results
+greedy/
