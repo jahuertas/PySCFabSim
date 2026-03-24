@@ -1,0 +1,23 @@
+# PySCFabSim Dependencies
+# Python 3.8+ | Created: 2026-02-04
+# Install: pip install -r requirements.txt
+
+# Core RL
+gymnasium==0.29.1
+stable-baselines3==2.2.1
+torch==2.4.1
+
+# Data Processing
+numpy==1.24.4
+pandas==2.0.3
+
+# Visualization
+matplotlib==3.7.5
+opencv-python==4.13.0.90
+
+# Utilities
+PyYAML==6.0.3
+requests==2.32.4
+psutil==7.2.2
+click==8.1.8
+pyinstrument==5.1.2
